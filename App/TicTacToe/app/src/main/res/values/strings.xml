@@ -1,7 +1,0 @@
-<resources>
-    <string name="app_name">TicTacToe</string>
-    <string name="Text_View" />
-    <string name="Welcome_text">WELCOME</string>
-    <string name="TextView">Welcome To Our TicTacToe Game</string>
-    <string name="bu_text">Continue...</string>
-</resources>
